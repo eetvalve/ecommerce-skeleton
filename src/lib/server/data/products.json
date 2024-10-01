@@ -1,0 +1,23 @@
+[
+  {
+    "id": "dsa",
+    "title": "Fofa pönttö",
+    "description": "niin hyvä pönttö",
+    "price": 149,
+    "inventoryQuantity": 1000
+  },
+  {
+    "id": "dsasds",
+    "title": "Jakkara",
+    "description": "auttaa kakan tulossa",
+    "price": 39,
+    "inventoryQuantity": 0
+  },
+  {
+    "id": "dsasdsasad",
+    "title": "Asennuspalvelu",
+    "description": "Pöntönkannen asennuspalvelu",
+    "price": 60,
+    "inventoryQuantity": null
+  }
+]
