@@ -1,4 +1,4 @@
 import Stripe from 'stripe';
+import { STRIPE_API_KEY } from '$env/static/private';
 
-const privateKey: string = import.meta.env.VITE_STRIPE_API_KEY;
-export const stripe = new Stripe(privateKey);
+export const stripe = new Stripe(STRIPE_API_KEY);
